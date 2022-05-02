@@ -18,4 +18,5 @@
         <element name="User" positionX="-63" positionY="-18" width="128" height="88"/>
         <element name="Product" positionX="-54" positionY="18" width="128" height="148"/>
     </elements>
+    
 </model>
